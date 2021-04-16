@@ -33,3 +33,6 @@ Vstavil sem vrednost 16, a Baud Rate sem dobil 5.25 MBits/s.
 
 - TABELA (meritve x osi):
 ODR3=0	ODR2=0	ODR1=0	ODR0=1	BDU=0	Zen=0	Yen=0	Xen=1
+
+KOMENTAR:
+Koda sicer nima napak saj proram izpise 0 errors in 0 bugs, a ga nisem mogel naložiti na STM zaradi težav s programsko opremo (Program zahteva novejšo verzijo, a ko jo hočem prenesti ne pokaže novejše različice).
